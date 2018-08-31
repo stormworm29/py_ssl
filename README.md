@@ -6,3 +6,5 @@ Here the cert file and private key files can be created using the open source to
 "name.crt" is the public key certificate file.
 "key.pem" is the private RSA key 
 server.py and client.py are self explainatory.
+
+I have Attached the ca-bundle.crt with this, which enables the client.py to even connect to realtime sites. ;)
